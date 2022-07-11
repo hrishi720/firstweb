@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+}
+.logo {
+  content: white;
+  height: 320px;
+  width: 400px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+.contact_us{
+    font-size: 25px;
+    margin-left: 900px;
+}
+.agera_1{
+    width: 1000px;
+}
+h2{
+    color: white;
+    margin: 100px;
+    font:"Fira Sans", serif;
+}
+label{
+    color: #ffffff;
+    font-size: 30px;
+    margin: 100px;
+}
+input{
+    margin-top: 50px;
+    margin-left: 100px;
+}
